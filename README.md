@@ -1,5 +1,4 @@
 #Chemical Engineering Projects:
-<!DOCTYPE html>
 <html >
   <head>
   </head>
