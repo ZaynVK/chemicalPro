@@ -3,7 +3,7 @@
 <html >
   <head>
   </head>
-  <body>
+  <body style="background-color:#E2E5DE;">
     <h1>Project - 1</h1>
 <p><a href="projects/Report_Guide%20(1).pdf">1. COMPARATIVE ANALYSIS OF TWO-DIMENSIONAL STEADY STATE HEAT
 CONDUCTION IN A SLAB USING METHOD OF LINES AND ANSYS</a></p>
