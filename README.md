@@ -1,8 +1,7 @@
-# chemicalPro
+# Chemical Engineering Projects:
 <!DOCTYPE html>
 <html >
   <head>
-    <title>Projects</title>
   </head>
   <body>
     <h1>Project - 1</h1>
